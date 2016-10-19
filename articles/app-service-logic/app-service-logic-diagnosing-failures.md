@@ -18,6 +18,8 @@
 
 # Diagnosing logic app failures
 
+This is an edit sample.
+
 If you experience issues or failures with the Logic Apps feature of Azure App Service, a few approaches can help you better understand where the failures are coming from.  
 
 ## Azure portal tools
